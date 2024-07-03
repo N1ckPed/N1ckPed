@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @N1ckPed
-- 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on any interesting ML project!
-- 📫 How to reach me, nick.r.ped@gmail.com
+# 👋 Hi, I’m @N1ckPed
+
+- 🌟 I’m passionate about Data Science and currently diving into Machine Learning.
+- 📚 I’m learning and exploring various ML techniques and tools.
+- 🤝 I’m open to collaborating on exciting ML projects and innovative ideas!
+- 📫 Feel free to reach out to me at [nick.r.ped@gmail.com](mailto:nick.r.ped@gmail.com).
 
 <!---
 N1ckPed/N1ckPed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
